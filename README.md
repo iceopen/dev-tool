@@ -9,7 +9,7 @@ Golang 的官网给出很优秀的指导，多看看官方内容。但是，访�
 (GitHub地址)[https://github.com/golang]
 
 ### 规范
-
+[规则参考](go.md)
 
 ### 开发工具
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/?iceinto) *推荐使用*
@@ -19,4 +19,3 @@ Golang 的官网给出很优秀的指导，多看看官方内容。但是，访�
 - [dep](https://github.com/golang/dep) Go dependency management tool
 
 ### 学习
-- 
