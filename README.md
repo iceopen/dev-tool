@@ -17,6 +17,9 @@ Golang 的官网给出很优秀的指导，多看看官方内容。但是，访�
 
 ### 通用库
 - [dep](https://github.com/golang/dep) Go dependency management tool
+- [gops](https://github.com/google/gops) A tool to list and diagnose Go processes currently running on your system
+- [goimports](https://github.com/bradfitz/goimports) This tool updates your Go import lines, adding missing ones and
+removing unreferenced ones.
 
 ### 学习
 
