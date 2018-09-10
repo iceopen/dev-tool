@@ -41,6 +41,7 @@ removing unreferenced ones.
 - [Uber是如何基于Go语言构建高QPS服务的？](http://www.infoq.com/cn/articles/uber-build-high-qps-services)
 - [FreeWheel基于Go的实践经验漫谈](http://www.infoq.com/cn/news/2017/06/freewheel-experience-on-go)
 - [Iron.io从Ruby迁移到Go：减少了28台服务器并避免了连锁故障](http://www.infoq.com/cn/news/2013/03/ruby-to-go)
+- [Stream从Python切换到Go的原因](http://www.infoq.com/cn/articles/stream-switch-go)
 
 ### 优秀文章
 - [从PHP Laravel 到 Go Iris--路由篇](https://yuanxuxu.com/2017/09/11/cong-php-laraveldao-go-iris-lu-you-pian/)
