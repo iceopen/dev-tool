@@ -24,6 +24,7 @@ removing unreferenced ones.
 ### 学习
 
 ### 迁移&案例
+- [放弃 Python，Uber 用 Go 重写 Schemaless 数据库的分片层](https://www.infoq.cn/article/a1o6QfgIKfo*SOyHOJXg)
 - [如何用Go打造亿级实时分布式出行平台](https://mp.weixin.qq.com/s/iy1JfYb7E4t8mByx_P_OyA)
 - [跨境电商平台为何抛弃C#转投Go的怀抱](https://mp.weixin.qq.com/s/4lV0EwrwGsnUKiYwb3dMjw)
 - [Go凭什么击败C++成为证券期货行情系统的首选语言](https://mp.weixin.qq.com/s/GWXog6Mg1xr35k5Oyxxr3g)
