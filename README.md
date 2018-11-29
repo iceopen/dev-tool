@@ -24,6 +24,7 @@ removing unreferenced ones.
 ### 学习
 
 ### 迁移&案例
+- [知乎社区核心业务 Golang 化实践](https://zhuanlan.zhihu.com/p/48039838)
 - [放弃 Python，Uber 用 Go 重写 Schemaless 数据库的分片层](https://www.infoq.cn/article/a1o6QfgIKfo*SOyHOJXg)
 - [如何用Go打造亿级实时分布式出行平台](https://mp.weixin.qq.com/s/iy1JfYb7E4t8mByx_P_OyA)
 - [跨境电商平台为何抛弃C#转投Go的怀抱](https://mp.weixin.qq.com/s/4lV0EwrwGsnUKiYwb3dMjw)
