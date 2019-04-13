@@ -34,12 +34,13 @@ removing unreferenced ones.
 
 ### 迁移&案例
 
-- [放弃Python，Uber用Go重写Schemaless数据库的分片层](https://mp.weixin.qq.com/s/_2ktQg4oPF4ZuXcPeXdfeA)
 - [使用 Python 5 年后，我转向了 Go](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490854&idx=2&sn=e422afcae3aa2ac35d635359764cd292&chksm=f951a865ce26217330353d7317023389932fabe3a0f3f4782a96b8d50a7e422e455d324a3fe2&scene=27#wechat_redirect)
 - [我是如何把 5 万行 C++ 代码移植到 Go 的？](https://www.infoq.cn/article/ltVdP_QAsYK7U5rq9Yuu)
 - [从 Scala 迁移到 Go，永不回头](https://mp.weixin.qq.com/s/ORO0GcHpbZKNE6W5N0HCVw)
 - [基于Go构建滴滴核心业务平台的实践](https://mp.weixin.qq.com/s/dWTqPOOadcjoiDjqDgNyow)
 - [从Python迁移到Go的原因和好处](https://mp.weixin.qq.com/s?src=11&timestamp=1555146909&ver=1544&signature=Lsa4fBmRehSmirBlgELjN1uraayqUIno8xeYH3PqXKLPrlTIVxLNratOzph3KPxA-xj2AfELqICxFq8ztKgxbc0dLPsjYiy3Y7adsr9kGcCcOWpObuVG-ZjxXVcvdNAf&new=1)
+- [知乎社区核心业务 Golang 化实践](https://zhuanlan.zhihu.com/p/48039838)
+- [放弃 Python，Uber 用 Go 重写 Schemaless 数据库的分片层](https://www.infoq.cn/article/a1o6QfgIKfo*SOyHOJXg)
 - [如何用Go打造亿级实时分布式出行平台](https://mp.weixin.qq.com/s/iy1JfYb7E4t8mByx_P_OyA)
 - [跨境电商平台为何抛弃C#转投Go的怀抱](https://mp.weixin.qq.com/s/4lV0EwrwGsnUKiYwb3dMjw)
 - [Go凭什么击败C++成为证券期货行情系统的首选语言](https://mp.weixin.qq.com/s/GWXog6Mg1xr35k5Oyxxr3g)
@@ -57,6 +58,7 @@ removing unreferenced ones.
 - [Uber是如何基于Go语言构建高QPS服务的？](http://www.infoq.com/cn/articles/uber-build-high-qps-services)
 - [FreeWheel基于Go的实践经验漫谈](http://www.infoq.com/cn/news/2017/06/freewheel-experience-on-go)
 - [Iron.io从Ruby迁移到Go：减少了28台服务器并避免了连锁故障](http://www.infoq.com/cn/news/2013/03/ruby-to-go)
+- [Stream从Python切换到Go的原因](http://www.infoq.com/cn/articles/stream-switch-go)
 
 ### 优秀文章
 
