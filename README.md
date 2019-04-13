@@ -1,21 +1,26 @@
 # dev-tool
+
 我的开发工具、开发学习历程
 
 所有的整理均属于我个人想法和内容，不带要什么特殊意义。希望能给大家带来一丝丝帮助
 
 ## [Golang](http://golang.org/)
+
 Golang 的官网给出很优秀的指导，多看看官方内容。但是，访问的时候有些时候大家需要翻墙。
 
 [GitHub地址](https://github.com/golang)
 
 ### 规范
+
 [规则参考](go.md)
 
 ### 开发工具
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/?iceinto) *推荐使用*
-- [Gogland](https://www.jetbrains.com/go/?iceinto)
+
+- [Gogland](https://www.jetbrains.com/go/?iceinto) *推荐使用*
+- [VSCode](https://code.visualstudio.com/)
 
 ### 通用库
+
 - [dep](https://github.com/golang/dep) Go dependency management tool
 - [gops](https://github.com/google/gops) A tool to list and diagnose Go processes currently running on your system
 - [goimports](https://github.com/bradfitz/goimports) This tool updates your Go import lines, adding missing ones and
@@ -23,7 +28,18 @@ removing unreferenced ones.
 
 ### 学习
 
+- [awesome-go](https://github.com/avelino/awesome-go)
+- [Go 构建Web程序](https://github.com/astaxie/build-web-application-with-golang/)
+- [Go语言圣经中文版](https://github.com/golang-china/gopl-zh)
+
 ### 迁移&案例
+
+- [放弃Python，Uber用Go重写Schemaless数据库的分片层](https://mp.weixin.qq.com/s/_2ktQg4oPF4ZuXcPeXdfeA)
+- [使用 Python 5 年后，我转向了 Go](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490854&idx=2&sn=e422afcae3aa2ac35d635359764cd292&chksm=f951a865ce26217330353d7317023389932fabe3a0f3f4782a96b8d50a7e422e455d324a3fe2&scene=27#wechat_redirect)
+- [我是如何把 5 万行 C++ 代码移植到 Go 的？](https://www.infoq.cn/article/ltVdP_QAsYK7U5rq9Yuu)
+- [从 Scala 迁移到 Go，永不回头](https://mp.weixin.qq.com/s/ORO0GcHpbZKNE6W5N0HCVw)
+- [基于Go构建滴滴核心业务平台的实践](https://mp.weixin.qq.com/s/dWTqPOOadcjoiDjqDgNyow)
+- [从Python迁移到Go的原因和好处](https://mp.weixin.qq.com/s?src=11&timestamp=1555146909&ver=1544&signature=Lsa4fBmRehSmirBlgELjN1uraayqUIno8xeYH3PqXKLPrlTIVxLNratOzph3KPxA-xj2AfELqICxFq8ztKgxbc0dLPsjYiy3Y7adsr9kGcCcOWpObuVG-ZjxXVcvdNAf&new=1)
 - [如何用Go打造亿级实时分布式出行平台](https://mp.weixin.qq.com/s/iy1JfYb7E4t8mByx_P_OyA)
 - [跨境电商平台为何抛弃C#转投Go的怀抱](https://mp.weixin.qq.com/s/4lV0EwrwGsnUKiYwb3dMjw)
 - [Go凭什么击败C++成为证券期货行情系统的首选语言](https://mp.weixin.qq.com/s/GWXog6Mg1xr35k5Oyxxr3g)
@@ -43,6 +59,10 @@ removing unreferenced ones.
 - [Iron.io从Ruby迁移到Go：减少了28台服务器并避免了连锁故障](http://www.infoq.com/cn/news/2013/03/ruby-to-go)
 
 ### 优秀文章
+
+- [Go 1.12 发布：改进了运行时性能以及模块支持](https://www.infoq.cn/article/X8*xBSAOH4ZaNIO6FlDN)
+- [为什么很多公司都转型go语言开发？Go语言能做什么](https://mp.weixin.qq.com/s?__biz=MzI5ODQ2MzI3NQ==&mid=2247486693&idx=1&sn=74ffd5831b82b8209b53a1be2549d144&chksm=eca435a1dbd3bcb7a4f42a7767a6fc3142accea5a056e9d11a7964b3f9a87da222b8719b53a9&scene=27#wechat_redirect)
+- [为Go语言GC正名－20秒到100微妙的演变史](http://blog.csdn.net/erlib/article/details/51850912)
 - [从PHP Laravel 到 Go Iris--路由篇](https://yuanxuxu.com/2017/09/11/cong-php-laraveldao-go-iris-lu-you-pian/)
 - [Go 原理解析：channel是如何工作的](https://mp.weixin.qq.com/s/kBimHA6KPsjtOJkkJEyRHw)
 - [Go语言 | Go 1.9 新特性 Type Alias详解](http://www.flysnow.org/2017/08/26/go-1-9-type-alias.html)
@@ -66,8 +86,3 @@ removing unreferenced ones.
 - [毛剑：Bilibili 的 Go 服务实践（上篇）](https://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=2653370296&idx=1&sn=7bb0f55841beabb1ca58aaa75fea244f&chksm=bce4d7a28b935eb462df3014e980b851b669bb7ec959b277f1bceaa41a1cd5a360f8c39ff02e&mpshare=1&scene=1&srcid=1009BmukWD156PEca8RmS6x4#rd)
 - [毛剑：Bilibili 的 Go 服务实践（下篇）](https://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=2653370297&idx=1&sn=4c2773ba44c62f953378beac6f2a5985&chksm=bce4d7a38b935eb501b6997234c11d295c3b70b7a32ac2b002e844eb7d6b9d5d68cffcd73775&mpshare=1&scene=1&srcid=1010ZjUvfdjuorMWXB8bhXDj#rd)
 
-## [Node.js](http://nodejs.org/)
-Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
-
-- [GitHub地址](https://github.com/nodejs/node/)
-- [Node整理](node.md)
