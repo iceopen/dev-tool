@@ -12,7 +12,7 @@ Golang 的官网给出很优秀的指导，多看看官方内容。但是，访�
 
 ### 规范
 
-[规则参考](go.md)
+[Go规则参考](language/go.md)
 
 ### 开发工具
 
@@ -62,6 +62,7 @@ removing unreferenced ones.
 
 ### 优秀文章
 
+- [Golang在大数据领域中的应用之唯品会高吞吐量Access Log存储的实现](https://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=2653371979&idx=1&sn=457a0991950c1cb755b796a39b0a8c14&chksm=bce4de518b935747967c4d99f60913c0cad900fe2c02baa5bbb55ea274817e7a7d97133fd97c&mpshare=1&scene=1&srcid=0312FX1EIeT28ErPjZ3m2Fhb%23rd)
 - [Go 1.12 发布：改进了运行时性能以及模块支持](https://www.infoq.cn/article/X8*xBSAOH4ZaNIO6FlDN)
 - [为什么很多公司都转型go语言开发？Go语言能做什么](https://mp.weixin.qq.com/s?__biz=MzI5ODQ2MzI3NQ==&mid=2247486693&idx=1&sn=74ffd5831b82b8209b53a1be2549d144&chksm=eca435a1dbd3bcb7a4f42a7767a6fc3142accea5a056e9d11a7964b3f9a87da222b8719b53a9&scene=27#wechat_redirect)
 - [为Go语言GC正名－20秒到100微妙的演变史](http://blog.csdn.net/erlib/article/details/51850912)
@@ -88,3 +89,7 @@ removing unreferenced ones.
 - [毛剑：Bilibili 的 Go 服务实践（上篇）](https://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=2653370296&idx=1&sn=7bb0f55841beabb1ca58aaa75fea244f&chksm=bce4d7a28b935eb462df3014e980b851b669bb7ec959b277f1bceaa41a1cd5a360f8c39ff02e&mpshare=1&scene=1&srcid=1009BmukWD156PEca8RmS6x4#rd)
 - [毛剑：Bilibili 的 Go 服务实践（下篇）](https://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=2653370297&idx=1&sn=4c2773ba44c62f953378beac6f2a5985&chksm=bce4d7a38b935eb501b6997234c11d295c3b70b7a32ac2b002e844eb7d6b9d5d68cffcd73775&mpshare=1&scene=1&srcid=1010ZjUvfdjuorMWXB8bhXDj#rd)
 
+## 其他语言
+
+- [Node.js](language/node.md)
+- [Rust](language/rust.md)
